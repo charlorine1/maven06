@@ -7,5 +7,6 @@ public class Ha {
         System.out.print("aa");
         System.out.print("aa");
         System.out.print("aa");
+        System.out.print("a12a");
     }
 }
