@@ -7,11 +7,10 @@ public class Ha {
         System.out.print("aa");
         System.out.print("aa");
         System.out.print("aa11111");
-<<<<<<< HEAD
+
         System.out.print("test01");
-=======
+
         System.out.print("aa11111");
         System.out.println("dev20171010");
->>>>>>> dev20171010
     }
 }
