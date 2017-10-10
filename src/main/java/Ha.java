@@ -12,5 +12,7 @@ public class Ha {
 
         System.out.print("aa11111");
         System.out.println("dev20171010");
+        System.out.println("dev20171010");
+        System.out.println("dev20171010");
     }
 }
